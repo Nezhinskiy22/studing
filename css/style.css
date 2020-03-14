@@ -6,6 +6,8 @@ body {
 .container-fluid {
   padding: 0px;
 }
+
+/* about branch */
 header {
   height: 967px;
   background-image: url(../img/back-header.jpg);
